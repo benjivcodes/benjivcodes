@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on enabling better privacy for my digital life
+- 🌱 I’m currently learning Python, again.
 
 <!--
 **benjivcodes/benjivcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
